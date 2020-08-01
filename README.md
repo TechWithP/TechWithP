@@ -1,12 +1,12 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/master/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/poojam1507">
+<a href="https://twitter.com/TechWithp1">
   <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/mpooja15">
+<a href="https://linkedin.com/in/tech-with-p">
   <img align="left" alt="Pavan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/mPooja-15">
+<a href="https://github.com/TechWithP">
   <img align="left" alt="Pavan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/techwithp">
@@ -15,7 +15,7 @@
 <a href="https://instagram.com/techwithp/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mpooja.15/">
+<a href="https://www.facebook.com/techwithp/">
   <img align="left" alt="Pavan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.hackerrank.com/mishrapooja8128/">
