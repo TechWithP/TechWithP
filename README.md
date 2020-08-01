@@ -12,7 +12,7 @@
 <a href="https://t.me/techwithp">
   <img align="left" alt="Pavan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/techwithp/">
+<a href="https://instagram.com/tech_with_p/">
   <img align="left" alt="Pavan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/techwithp/">
